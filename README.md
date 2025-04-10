@@ -1,4 +1,4 @@
-# Stock
+# Stock Price Prediction
 
 A simple web application for tracking stock information.
 
@@ -20,6 +20,7 @@ To run this project locally:
 
 ```bash
 git clone https://github.com/dhrvsgal/stock.git
+```
 
 ## Contributing
 Contributions are welcome! Feel free to fork this repo and submit a pull request with improvements or bug fixes.
